@@ -11,7 +11,7 @@ beforeEach(() => {
 });
 
 afterEach(() => {
-  restoreFixture();
+  //restoreFixture();
 });
 
 it('renders a hello world message', () => {
